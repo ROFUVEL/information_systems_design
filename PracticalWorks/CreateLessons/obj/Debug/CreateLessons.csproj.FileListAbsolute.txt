@@ -5,3 +5,4 @@ D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.csproj.CoreCompileInputs.cache
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.exe
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.pdb
+D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.exe.config
