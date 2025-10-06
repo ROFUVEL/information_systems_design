@@ -46,6 +46,7 @@
     <Compile Include="ClassFileHandler.cs" />
     <Compile Include="GroupLesson.cs" />
     <Compile Include="Lesson.cs" />
+    <Compile Include="LessonInPairs.cs" />
     <Compile Include="LessonParser.cs" />
     <Compile Include="OnlineLesson.cs" />
     <Compile Include="Program.cs" />

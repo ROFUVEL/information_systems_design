@@ -32,17 +32,17 @@ namespace CreateLessons
                 string[] parts = input.Split('"');
                 string[] dateTimeParts = parts[0].Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-                DateTime dateLesson = DateTime.Parse(dateTimeParts[0]);
-                TimeSpan timeLesson = TimeSpan.Parse(dateTimeParts[1]);
-                string teacherName = parts[1];
+                DateTime date = DateTime.Parse(dateTimeParts[0]);
+                TimeSpan time = TimeSpan.Parse(dateTimeParts[1]);
+                string teacher = parts[1];
 
                 if (parts.Length == 3)
                 {
                     return new Lesson
                     {
-                        DateLesson = dateLesson,
-                        TimeLesson = timeLesson,
-                        TeacherName = teacherName
+                        DateLesson = date,
+                        TimeLesson = time,
+                        TeacherName = teacher
                     };
                 }
 
@@ -55,9 +55,9 @@ namespace CreateLessons
                     {
                         return new OnlineLesson
                         {
-                            DateLesson = dateLesson,
-                            TimeLesson = timeLesson,
-                            TeacherName = teacherName,
+                            DateLesson = date,
+                            TimeLesson = time,
+                            TeacherName = teacher,
                             Platform = secondString,
                             IsRecorded = isRecorded
                         };
@@ -67,11 +67,23 @@ namespace CreateLessons
                     {
                         return new GroupLesson
                         {
-                            DateLesson = dateLesson,
-                            TimeLesson = timeLesson,
-                            TeacherName = teacherName,
+                            DateLesson = date,
+                            TimeLesson = time,
+                            TeacherName = teacher,
                             GroupName = secondString,
                             StudentsCount = studentsCount
+                        };
+                    }
+
+                    if (!string.IsNullOrEmpty(secondString) && !string.IsNullOrEmpty(afterQuoted))
+                    {
+                        return new LessonInPairs
+                        {
+                            DateLesson = date,
+                            TimeLesson = time,
+                            TeacherName = teacher,
+                            FriendName = secondString,
+                            FriendAge = afterQuoted
                         };
                     }
                 }

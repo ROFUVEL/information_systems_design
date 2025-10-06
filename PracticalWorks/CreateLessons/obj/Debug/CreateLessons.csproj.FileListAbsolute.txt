@@ -6,3 +6,10 @@ D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.exe
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.pdb
 D:\Desktop\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.exe.config
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\bin\Debug\CreateLessons.exe.config
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\bin\Debug\CreateLessons.exe
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\bin\Debug\CreateLessons.pdb
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.csproj.AssemblyReference.cache
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.csproj.CoreCompileInputs.cache
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.exe
+T:\ISD\information_systems_design\PracticalWorks\CreateLessons\obj\Debug\CreateLessons.pdb

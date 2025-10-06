@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\",
+  "WorkspaceRootPath": "T:\\ISD\\information_systems_design\\PracticalWorks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|d:\\desktop\\isd\\information_systems_design\\practicalworks\\createlessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|d:\\desktop\\isd\\information_systems_design\\practicalworks\\createlessons\\classfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\classfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\onlinelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\onlinelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|d:\\desktop\\isd\\information_systems_design\\practicalworks\\createlessons\\lessonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\lessonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\lessonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|t:\\isd\\information_systems_design\\practicalworks\\createlessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\classfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\classfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\onlinelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\onlinelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\grouplesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\grouplesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\grouplesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|T:\\ISD\\information_systems_design\\PracticalWorks\\createlessons\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8292194C-C035-44E5-B772-5DB2C4B465EF}|CreateLessons\\CreateLessons.csproj|solutionrelative:createlessons\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1123,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Lesson.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Lesson.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Lesson.cs",
               "RelativeDocumentMoniker": "CreateLessons\\Lesson.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Lesson.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Lesson.cs",
               "RelativeToolTip": "CreateLessons\\Lesson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,38 +56,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Program.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Program.cs",
               "RelativeDocumentMoniker": "CreateLessons\\Program.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Program.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\Program.cs",
               "RelativeToolTip": "CreateLessons\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T13:03:14.749Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LessonParser.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\LessonParser.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\LessonParser.cs",
               "RelativeDocumentMoniker": "CreateLessons\\LessonParser.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\LessonParser.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\LessonParser.cs",
               "RelativeToolTip": "CreateLessons\\LessonParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T18:19:00.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClassFileHandler.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\ClassFileHandler.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\ClassFileHandler.cs",
               "RelativeDocumentMoniker": "CreateLessons\\ClassFileHandler.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\ClassFileHandler.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\ClassFileHandler.cs",
               "RelativeToolTip": "CreateLessons\\ClassFileHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GroupLesson.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\GroupLesson.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\GroupLesson.cs",
               "RelativeDocumentMoniker": "CreateLessons\\GroupLesson.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\GroupLesson.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\GroupLesson.cs",
               "RelativeToolTip": "CreateLessons\\GroupLesson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,26 +119,37 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\App.config",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\App.config",
               "RelativeDocumentMoniker": "CreateLessons\\App.config",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\App.config",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\App.config",
               "RelativeToolTip": "CreateLessons\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-05T18:08:24.766Z"
+              "WhenOpened": "2025-10-05T18:08:24.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OnlineLesson.cs",
-              "DocumentMoniker": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\OnlineLesson.cs",
+              "DocumentMoniker": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\OnlineLesson.cs",
               "RelativeDocumentMoniker": "CreateLessons\\OnlineLesson.cs",
-              "ToolTip": "D:\\Desktop\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\OnlineLesson.cs",
+              "ToolTip": "T:\\ISD\\information_systems_design\\PracticalWorks\\CreateLessons\\OnlineLesson.cs",
               "RelativeToolTip": "CreateLessons\\OnlineLesson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T18:08:19.697Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
