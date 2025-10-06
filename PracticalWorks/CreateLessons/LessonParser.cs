@@ -29,27 +29,32 @@ namespace CreateLessons
         {
             try
             {
+                // Разбиваем по кавычкам
                 string[] parts = input.Split('"');
                 string[] dateTimeParts = parts[0].Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
                 DateTime date = DateTime.Parse(dateTimeParts[0]);
                 TimeSpan time = TimeSpan.Parse(dateTimeParts[1]);
                 string teacher = parts[1];
+                string idStudent = parts.Length > 3 ? parts[3] : "";
 
-                if (parts.Length == 3)
+                // --- Базовый урок: 4 части (дата, время, преподаватель, студент)
+                if (parts.Length == 5)
                 {
                     return new Lesson
                     {
                         DateLesson = date,
                         TimeLesson = time,
-                        TeacherName = teacher
+                        TeacherName = teacher,
+                        IdStudent = idStudent
                     };
                 }
 
-                if (parts.Length == 5)
+                // --- Онлайн занятие: 6 частей (дата, время, преподаватель, студент, платформа, bool)
+                if (parts.Length == 7)
                 {
-                    string secondString = parts[3];
-                    string afterQuoted = parts[4].Trim();
+                    string platform = parts[5];
+                    string afterQuoted = parts[6].Trim();
 
                     if (bool.TryParse(afterQuoted, out bool isRecorded))
                     {
@@ -58,10 +63,18 @@ namespace CreateLessons
                             DateLesson = date,
                             TimeLesson = time,
                             TeacherName = teacher,
-                            Platform = secondString,
+                            IdStudent = idStudent,
+                            Platform = platform,
                             IsRecorded = isRecorded
                         };
                     }
+                }
+
+                // --- Групповое занятие: 6 частей (дата, время, преподаватель, студент, группа, число)
+                if (parts.Length == 7)
+                {
+                    string groupName = parts[5];
+                    string afterQuoted = parts[6].Trim();
 
                     if (int.TryParse(afterQuoted, out int studentsCount))
                     {
@@ -70,24 +83,14 @@ namespace CreateLessons
                             DateLesson = date,
                             TimeLesson = time,
                             TeacherName = teacher,
-                            GroupName = secondString,
+                            IdStudent = idStudent,
+                            GroupName = groupName,
                             StudentsCount = studentsCount
-                        };
-                    }
-
-                    if (!string.IsNullOrEmpty(secondString) && !string.IsNullOrEmpty(afterQuoted))
-                    {
-                        return new LessonInPairs
-                        {
-                            DateLesson = date,
-                            TimeLesson = time,
-                            TeacherName = teacher,
-                            FriendName = secondString,
-                            FriendAge = afterQuoted
                         };
                     }
                 }
 
+                // Если формат не подходит
                 return null;
             }
             catch (Exception ex)
